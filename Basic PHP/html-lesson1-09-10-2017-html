@@ -1,0 +1,154 @@
+<html>
+	<head>
+		<title>Lession 1 - html tags basic</title>
+	</head>
+	<body>
+		<h1><i><u>Thơ về IT</u></i></h1>
+		<p>
+			<i>
+				Nếu một ngày Windows em báo lỗi <br>
+				Anh nguyện làm các Soft test đơn phương<br>
+				Từng Sector anh đi khắp nẻo đường<br>
+				Fix hết nhé những Error trêu tức.<br>
+			</i>
+		</p>
+		<p>
+			<b>
+				AVI kia những đêm dài thao thức<br>
+				Lỗi mất rồi thiếu Codec em ơi!<br>
+				Ngó Display lòng thấy quá chơi vơi<br>
+				Anh DIVX nhìn em cười từ tốn.<br>
+			</b>
+		</p>
+		<p>
+			<u>
+				Em lướt Web bao Trojan săn đón<br>
+				Anh xin làm chàng NAV đứng ngóng trông<br>
+				Cố sức mình Scan hết băng thông<br>
+				Che chở em trước muôn ngàn Virus.<br>
+			</u>
+		</p>
+		<p>
+			<em>
+				Bao Spyware ngồi nhìn em hóng hớt<br>
+				NAV đơn côi thấp thoáng phía kia đường<br>
+				Khi Hacker giẫm đạp chẳng xót thương<br>
+				Co mình lại giương Firewall chống đỡ.<br>
+			</em>
+		</p>
+		<p>
+			<h2>
+				Nếu một mai Admin em có lỡ...<br>
+				Delete rồi File chứa những yêu thương<br>
+				Đôi mắt biếc Paint đầy nỗi vấn vương<br>
+				Đừng khóc nữa anh Restore trở lại.<br>
+			</h2>
+		</p>
+		<p>
+			<h3>
+				Em giận hờn cưỡi IE chạy mãi<br>
+				Anh hoảng hồn lấy Firefox đuổi theo<br>
+				Đằng xa kia Netscape đá lông nheo<br>
+				Cancel luôn vì em là trên hết.<br>
+			</h3>
+		</p>
+		<p>
+			<h4>
+				Em RAM ít nên Run nhiều sẽ mệt<br>
+				Anh sẽ làm Physics Memory<br>
+				Search cùng em trên khắp nẻo đường đi<br>
+				Anh mạnh mẽ nhờ hai RAM cùng Bus.<br>
+			</h4>
+		</p>
+		<p>
+			<h5>
+				Accept nhé lời tỏ tình bất chợt<br>
+				Hai trái tim sẽ Connect dài lâu<br>
+				Dẫu Phishing có lừa dối đến đâu<br>
+				Tin anh nhé vì tình anh còn mãi...<br>
+			</h5>
+		</p>
+	<h1>Phần Table</h1>	
+	<h3>Thơ chàng và nàng</h3>
+	<table border="1">
+		<tr>
+			<td>
+				Em ơi lấy chồng <b>tin học</b> đi.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<i>Phần mềm phần cứng</i> chẳng ngại chi.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<u>Vấn đề chủ yếu</u> là công nghệ.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b><i>Với anh cái đó thì khỏi chê...</i></b>
+			</td>
+		</tr>
+	</table>
+	<br>
+	<br>
+	<table border="1">
+		<tr>
+			<td colspan="2">Nàng trả lời chàng bằng bài thơ sau</td>
+		</tr>
+		<tr>
+			<td>
+				Em ơi lấy chồng <b>tin học</b> đi.
+			</td>
+			<td>
+				<i>Em chẳng lấy chồng</i> tin học đâu.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<i>Phần mềm phần cứng</i> chẳng ngại chi.
+			</td>
+			<td>
+				<b>Phần mềm, phần cứng</b> nhức cả đầu.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<u>Vấn đề chủ yếu</u> là công nghệ.
+			</td>
+			<td>
+				<u>Phần mềm thì mãi sao không cứng.</u>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<b><i>Với anh cái đó thì khỏi chê...</i></b>
+			</td>
+			<td>
+				<em>Phần cứng lúc cần chẳng thấy đâu</em>
+			</td>
+		</tr>
+	</table>
+	<br>
+	<br>
+	<table border="5">
+		<caption>Chấm điểm cho chàng và nàng</caption>
+		<tr>
+			<th>Tên</th>
+			<th>Điểm</th>
+			<th>Chàng và nàng</th>
+		</tr>
+		<tr>
+			<td>Chàng</td>
+			<td>5</td>
+		<td rowspan="2">Tổng điểm là 15</td>
+		</tr>
+		<tr>
+			<td>Nàng</td>
+			<td>10</td>
+		</tr>	
+	</table>
+	</body>
+</html>
